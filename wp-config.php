@@ -11,7 +11,6 @@
  * installation. You don't have to use the web site, you can just copy this file
  * to "wp-config.php" and fill in the values.
  *
- * @package WordPress
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
